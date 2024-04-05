@@ -1,9 +1,6 @@
 # module_5_challenge
 Pharmaceuticals
 
-"data/Mouse_metadata.csv"
-"data/Study_results.csv"
-
 
 ### Analysis ###
 
